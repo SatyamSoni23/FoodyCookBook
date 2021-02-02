@@ -28,13 +28,13 @@ implementation 'com.facebook.shimmer:shimmer:0.5.0'
 ## Screenshots
 <table>
 <tr>
-    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/1.jpg" width=340 height=600 padding = "20"/></td>
-    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/2.jpg" width=340 height=600 padding = "20"/></td>
-    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/3.jpg" width=340 height=600 padding = "20"/></td>
+    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/1.jpg" width=340 height=500 padding = "20"/></td>
+    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/2.jpg" width=340 height=500 padding = "20"/></td>
+    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/3.jpg" width=340 height=500 padding = "20"/></td>
   </tr>
 <tr>
-<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/4.jpg" width=340 height=600 padding = "20"/></td>
-<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/5.jpg" width=340 height=600 padding = "20"/></td>
-<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/6.jpg" width=340 height=600 padding = "20"/></td>
+<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/4.jpg" width=340 height=500 padding = "20"/></td>
+<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/5.jpg" width=340 height=500 padding = "20"/></td>
+<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/6.jpg" width=340 height=500 padding = "20"/></td>
   </tr>
 </table>
