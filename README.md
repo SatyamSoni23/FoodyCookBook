@@ -28,13 +28,13 @@ implementation 'com.facebook.shimmer:shimmer:0.5.0'
 ## Screenshots
 <table>
 <tr>
-    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/1.jpg" width=360 height=800/></td>
-    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/2.jpg" width=360 height=800/></td>
-    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/3.jpg" width=360 height=800/></td>
+    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/1.jpg" width=360 height=600/></td>
+    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/2.jpg" width=360 height=600/></td>
+    <td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/3.jpg" width=360 height=600/></td>
   </tr>
 <tr>
-<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/4.jpg" width=360 height=800/></td>
-<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/5.jpg" width=360 height=800/></td>
-<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/6.jpg" width=360 height=800/></td>
+<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/4.jpg" width=360 height=600/></td>
+<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/5.jpg" width=360 height=600/></td>
+<td><img src="https://github.com/SatyamSoni23/FoodyCookBook/blob/main/Screenshots/6.jpg" width=360 height=600/></td>
   </tr>
 </table>
